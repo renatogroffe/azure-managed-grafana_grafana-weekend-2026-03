@@ -2,4 +2,5 @@
 Slides da apresentação "Azure Managed Grafana: monitoramento na nuvem com eficiência e flexibilidade". Palestra realizada durante o Grafana Weekend em 21/03/2026 na cidade de São Paulo-SP.
 
 Outros dashboards utilizados (além daqueles que já vieram por default com o Azure Managed Grafana):
+- Azure / Container Apps / Container App View: https://grafana.com/grafana/dashboards/16592-azure-container-apps-container-app-view/
 - AI Foundry (Microsoft Foundry): https://grafana.com/grafana/dashboards/24039-ai-foundry/
