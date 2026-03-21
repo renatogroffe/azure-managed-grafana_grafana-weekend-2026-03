@@ -9,3 +9,4 @@ Outros dashboards utilizados (além daqueles que já vieram por default com o Az
 - Kubernetes Pod Dashboard: https://grafana.com/grafana/dashboards/21298-kubernetes-pod-dashboard/
 - K8S Dashboard: https://grafana.com/grafana/dashboards/15661-k8s-dashboard-en-20250125/
 - Kubernetes - Pod Overview: https://grafana.com/grafana/dashboards/17684-kubernetes-pod-overview/
+- Kubernetes Deployment Dashboard: https://grafana.com/grafana/dashboards/20161-kubernetes-deployment-dashboard/
